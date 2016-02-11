@@ -1,3 +1,33 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.navbar {
+	background-color: #6B6D6E;
+}
+.collapse ul {
+	text-transform: uppercase;
+}
+.anchor {
+  padding-top: 50px;
+}
+.projectName {
+	text-transform: uppercase;
+}
+.projectName a {
+	color: #FFF;
+}
+.header h1 {
+	text-align: center;
+}
+h1 {
+color: blue;
+margin-top: 75px;
+}
+footer {
+	background-color: black;
+}
+footer p {
+	color: white;
+	padding: 20px;
+	text-align: right;
+}
